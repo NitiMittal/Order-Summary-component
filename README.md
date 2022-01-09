@@ -23,7 +23,7 @@ Want some support on the challenge? [Join our Slack community](https://www.front
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/NitiMittal/Order-Summary-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://order-summary-demo.netlify.app/)
 
 ## My process
 
